@@ -26,4 +26,3 @@ client.on('chat', function(channel, user, message, self){
     }, 600000);
 });
 
-client.login(process.env.TOKEN);
